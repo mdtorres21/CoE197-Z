@@ -1,6 +1,6 @@
 # CoE197-Z
-Deep learning
-Competition
+Deep learning  
+Competition  
 
-Ramirez, Jane Pauline
-Torres, Marco Bryan
+Ramirez, Jane Pauline  
+Torres, Marco Bryan  
